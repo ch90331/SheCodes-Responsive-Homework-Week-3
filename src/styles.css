@@ -90,3 +90,12 @@ a {
 .right {
   background-color: var(--site-color4);
 }
+
+@media (max-width: 576px){
+  .image{
+    display: none;
+  }
+  .appContent{
+    text-align: center;
+  }
+}
