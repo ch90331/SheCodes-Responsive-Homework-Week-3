@@ -97,5 +97,6 @@ a {
   }
   .appContent{
     text-align: center;
+    width: 100%;
   }
 }
